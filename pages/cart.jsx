@@ -104,7 +104,7 @@ const Cart = () => {
           <span className={styles.td}>Total</span>
         </div>
         {cart.products.map((product) => (
-          <div className={styles.row}>
+          <div className={styles.row} key={product._id}>
             <div className={styles.imgContainer}>
               <Image src={product.img} layout="fill" objectFit="cover" alt="" />
             </div>
