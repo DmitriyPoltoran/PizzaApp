@@ -13,7 +13,7 @@ const PizzaList = ({ pizzaList }) => {
           for every mood and occasion. When hunger strikes and your stomach
           looks for something quick and tasty, pizza seeks the winning position.
           On days of celebration or trouble, the warm steam from a pizza box
-          gives a certain feeling of relief and solace. Admit it — there's a
+          gives a certain feeling of relief and solace. Admit it — there is a
           little excitement whenever you hear the doorbell ring, and see a
           familiar guy with a cap, holding a warm box (or boxes, no judgment) of
           pizza. With this list are a number of reasons, among a thousand — why
