@@ -147,7 +147,7 @@ const Cart = () => {
           <div className={styles.totalText}>
             <b className={styles.totalTextTitle}>Total:</b>${cart.total}
           </div>
-          {false ? (
+          {open ? (
             <div className={styles.paymentMethods}>
               <button
                 className={styles.payButton}
